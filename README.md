@@ -2,10 +2,6 @@
 
 Tree Builder
 
-### How to submit the test
-
-Create an PR from your own code branch and assign to me `@longtran-pops` before the deadline.
-
 ### Requirements
 
 - Build a nested tree as shown belows
